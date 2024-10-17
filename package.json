@@ -1,4 +1,11 @@
 {
+  "name": "rule-engine-with-ast",
+  "version": "1.0.0",
+  "description": "A Rule Engine using AST for evaluating business rules.",
+  "main": "server.js", 
+  "scripts": {
+    "start": "nodemon server.js"  
+  },
   "dependencies": {
     "express": "^4.21.1",
     "mysql": "^2.18.1"
