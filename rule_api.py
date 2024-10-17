@@ -1,7 +1,7 @@
 import mysql.connector
 import json
 import os  # Import os for environment variables
-from ast_node import Node
+from node import Node
 
 # Author: YourName
 # GitHub: https://github.com/Xspidy7

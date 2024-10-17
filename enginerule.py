@@ -1,5 +1,5 @@
 
-from api import create_rule, combine_rules, evaluate_rule
+from rule_api import create_rule, combine_rules, evaluate_rule
 
 def test_rule_engine():
     # Test creating a rule

@@ -1,4 +1,4 @@
-from api import create_rule, combine_rules, evaluate_rule
+from rule_api import create_rule, combine_rules, evaluate_rule
 import mysql.connector
 import os  # Import os for environment variables
 
